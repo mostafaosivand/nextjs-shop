@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "شارلو",
+      "slug": "sharlo"
+    },
+    {
+      "id": 2,
+      "name": "کارلو",
+      "slug": "karlo"
+    },
+    {
+      "id": 3,
+      "name": "سنچون",
+      "slug": "semchon"
+    }
+  ]
+}

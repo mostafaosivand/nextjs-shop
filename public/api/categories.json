@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "شیشه و ملزومت",
+      "slug": "shihe",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/fresh-vegetables.png",
+        "original": "/assets/images/category/fresh-vegetables.png"
+      },
+      "icon": "/assets/images/category/icon/fresh-vegetables.svg",
+      "children": [
+        {
+          "id": 1,
+          "name": "شیشه و ملزومات یک",
+          "slug": "shishe-yek"
+        },
+        {
+          "id": 2,
+          "name": "شیشه و ملزومات دوم",
+          "slug": "shishe-2"
+        },
+        {
+          "id": 3,
+          "name": "شیشه و ملزومات سوم",
+          "slug": "shishe-3"
+        },
+        {
+          "id": 4,
+          "name": "شیشه و ملزومات چهارم",
+          "slug": "shishe-4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "مواد شیمیایی صنعتی",
+      "slug": "mavad-chimi",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/diet-foods.png",
+        "original": "/assets/images/category/diet-foods.png"
+      },
+      "icon": "/assets/images/category/icon/diet-foods.svg"
+    },
+    {
+      "id": 3,
+      "name": "دستگاه آزمایشگاهی",
+      "slug": "razi-dastgah",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/diet-nutrition.png",
+        "original": "/assets/images/category/diet-nutrition.png"
+      },
+      "icon": "/assets/images/category/icon/diet-nutrition.svg"
+    },
+    {
+      "id": 4,
+      "name": "شیشه گری",
+      "slug": "razi-shishegari",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/fast-food.png",
+        "original": "/assets/images/category/fast-food.png"
+      },
+      "icon": "/assets/images/category/icon/fast-food.svg"
+    },
+    {
+      "id": 5,
+      "name": "محیط کشت",
+      "slug": "razi-kesht",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/fruits-items.png",
+        "original": "/assets/images/category/fruits-items.png"
+      },
+      "icon": "/assets/images/category/icon/fruits-items.svg"
+    },
+    {
+      "id": 6,
+      "name": "شیشه آلات",
+      "slug": "shishe-alat",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/healthy-foods.png",
+        "original": "/assets/images/category/healthy-foods.png"
+      },
+      "icon": "/assets/images/category/icon/healthy-foods.svg"
+    },
+    {
+      "id": 7,
+      "name": "لوازم آزمایشگاه",
+      "slug": "razi-lavazem",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/grocery-items.png",
+        "original": "/assets/images/category/grocery-items.png"
+      },
+      "icon": "/assets/images/category/icon/grocery-items.svg"
+    }
+  ]
+}

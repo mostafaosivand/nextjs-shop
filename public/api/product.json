@@ -1,0 +1,103 @@
+{
+  "id": "pbsg3",
+  "name": "شیشه آلات آزمایشگاهی",
+  "slug": "razi-shishe",
+  "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/products/p-3.png",
+    "original": "/assets/images/products/p-3-m.png"
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-3-1.png",
+      "original": "/assets/images/products/p-3-1.png"
+    },
+    {
+      "id": 2,
+      "thumbnail": "/assets/images/products/p-3-2.png",
+      "original": "/assets/images/products/p-3-2.png"
+    },
+    {
+      "id": 3,
+      "thumbnail": "/assets/images/products/p-3-3.png",
+      "original": "/assets/images/products/p-3-3.png"
+    }
+  ],
+  "quantity": 70,
+  "price": null,
+  "sale_price": null,
+  "unit": "1 بسته",
+  "tag": [
+    {
+      "id": 1,
+      "name": "شیشه",
+      "slug": "fresh-food"
+    },
+    {
+      "id": 2,
+      "name": "آزمایشگاه",
+      "slug": "organic"
+    },
+    {
+      "id": 3,
+      "name": "شیمیایی",
+      "slug": "cilantro"
+    },
+    {
+      "id": 4,
+      "name": "تجهیزات",
+      "slug": "dry-food"
+    }
+  ],
+  "product_type": "variable",
+  "max_price": 40,
+  "min_price": 25,
+  "variations": [
+    {
+      "id": 8,
+      "attribute_id": 3,
+      "value": "12oz",
+      "attribute": {
+        "id": 3,
+        "slug": "available-in",
+        "name": "بستنه بندی",
+        "values": [
+          {
+            "id": 8,
+            "attribute_id": 3,
+            "value": "10 عددی"
+          },
+          {
+            "id": 9,
+            "attribute_id": 3,
+            "value": "20 عددی"
+          },
+          {
+            "id": 10,
+            "attribute_id": 3,
+            "value": "30 عددی"
+          }
+        ]
+      }
+    }
+  ],
+  "variation_options": [
+    {
+      "id": 247,
+      "title": "بسته 10 عددی",
+      "price": 35,
+      "sale_price": null,
+      "quantity": "10",
+      "is_disable": 0,
+      "sku": "200101",
+      "options": [
+        {
+          "name": "موجودی",
+          "value": "10 عددی"
+        }
+      ]
+    }
+  ]
+}

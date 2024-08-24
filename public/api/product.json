@@ -33,22 +33,22 @@
     {
       "id": 1,
       "name": "شیشه",
-      "slug": "fresh-food"
+      "slug": "شیشه"
     },
     {
       "id": 2,
       "name": "آزمایشگاه",
-      "slug": "organic"
+      "slug": "آزمایشگاه"
     },
     {
       "id": 3,
       "name": "شیمیایی",
-      "slug": "cilantro"
+      "slug": "شیمیایی"
     },
     {
       "id": 4,
       "name": "تجهیزات",
-      "slug": "dry-food"
+      "slug": "تجهیزات"
     }
   ],
   "product_type": "variable",

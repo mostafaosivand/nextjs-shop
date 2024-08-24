@@ -82,7 +82,7 @@ const OrderDetails: React.FC<{ className?: string }> = ({
             <td className="p-4">
               {shipping}
               <span className="text-[13px] font-normal ps-1.5 inline-block">
-                via Flat rate
+                پرداخت آنلاین
               </span>
             </td>
           </tr>

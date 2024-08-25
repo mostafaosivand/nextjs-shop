@@ -53,7 +53,7 @@ const AddAddressForm: React.FC = () => {
         <div className="mb-6">
           <Input
             variant="solid"
-            label="Address Title"
+            label="عنوان"
             {...register('title', { required: 'Title Required' })}
             error={errors.title?.message}
           />
@@ -70,7 +70,7 @@ const AddAddressForm: React.FC = () => {
             }
           />
           <TextArea
-            label="Address"
+            label="آدرس"
             {...register('formatted_address', {
               required: 'forms:address-required',
             })}

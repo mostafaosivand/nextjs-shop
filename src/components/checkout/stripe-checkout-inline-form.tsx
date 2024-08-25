@@ -7,7 +7,7 @@ const StripeCheckoutInlineForm = () => {
   const { t } = useTranslation();
   const { total } = useCart();
   return (
-    <StripePaymentForm item={{ price: total, buttonText: t('text-pay-now') }} />
+    <p>پرداخت از طریق درگاه پرداخت</p>
   );
 };
 

@@ -16,6 +16,10 @@
     font-family: "iranyekan" !important;
   }
 }
+.font-yekan
+{
+  font-family: "iranyekan";
+}
 
 /* Write your own custom base styles here */
 @layer base {

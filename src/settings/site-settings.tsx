@@ -16,11 +16,11 @@ export const siteSettings = {
     address: '',
   },
   logo: {
-    url: '/assets/images/logo.svg',
+    url: '/assets/images/logo.png',
     alt: 'iranrazi',
     href: '/',
-    width: 128,
-    height: 30,
+    width: 130,
+    height: 56,
   },
   defaultLanguage: 'fa',
   currencyCode: '',
@@ -77,6 +77,18 @@ export const siteSettings = {
         id: 6,
         path: '/',
         label: 'menu-pages',
+        subMenu: [
+          {
+            id: 1,
+            path: '/faq',
+            label: 'سوالات پر تکرار',
+          },
+          {
+            id: 1,
+            path: '/404',
+            label: 'صفحه 404'
+          }
+        ]
       },
     ],
     languageMenu: [

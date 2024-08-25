@@ -59,14 +59,14 @@ const Heading: React.FC<Props> = ({
         'text-skin-base',
         {
           'text-15px sm:text-base font-semibold': variant === 'base',
-          'text-base xl:text-lg xl:leading-7 font-semibold font-manrope':
+          'text-base xl:text-lg xl:leading-7 font-semibold font-body':
             variant === 'title',
           'font-semibold text-skin-base text-xl': variant === 'titleMedium',
           'text-base lg:text-lg xl:text-[20px] font-semibold xl:leading-8':
             variant === 'titleLarge',
           'text-base lg:text-[17px] lg:leading-7 font-medium':
             variant === 'mediumHeading',
-          'text-lg lg:text-xl xl:text-[22px] xl:leading-8 font-bold font-manrope':
+          'text-lg lg:text-xl xl:text-[22px] xl:leading-8 font-bold font-body':
             variant === 'heading',
           'text-lg lg:text-xl xl:text-[26px] xl:leading-8 font-semibold text-skin-base':
             variant === 'checkoutHeading',

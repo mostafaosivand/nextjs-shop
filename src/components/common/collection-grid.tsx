@@ -88,7 +88,7 @@ const CollectionGrid: React.FC<Props> = ({
                 <CollectionCard
                   key={item.id}
                   collection={item}
-                  href={`${ROUTES.BUNDLE}/${item.slug}`}
+                  href='#'
                 />
               </SwiperSlide>
             ))}
@@ -99,7 +99,7 @@ const CollectionGrid: React.FC<Props> = ({
               <CollectionCard
                 key={item.id}
                 collection={item}
-                href={`${ROUTES.BUNDLE}/${item.slug}`}
+                href='#'
               />
             ))}
           </div>
